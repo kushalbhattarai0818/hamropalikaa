@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "15588298280",
+    "project_id": "hamropalikafinalproject",
+    "storage_bucket": "hamropalikafinalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15588298280:android:b28f0827ae182432646f1d",
+        "android_client_info": {
+          "package_name": "com.example.adminforhamropalika"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sB7KlBDZj4oEAm7KfYCUw-jG3X8XTuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15588298280:android:153ddf99b7952fe2646f1d",
+        "android_client_info": {
+          "package_name": "com.example.hamropalika02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sB7KlBDZj4oEAm7KfYCUw-jG3X8XTuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15588298280:android:5e603817d6409fbb646f1d",
+        "android_client_info": {
+          "package_name": "com.example.hpadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1sB7KlBDZj4oEAm7KfYCUw-jG3X8XTuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
